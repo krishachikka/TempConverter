@@ -23,6 +23,9 @@ label, select, input, button {
   text-align: center;
   font-family: "Poppins", 'Courier New', Courier, monospace, sans-serif;
 }
+input{
+  width: 150px;
+}
 select{
   cursor: pointer;
 }
