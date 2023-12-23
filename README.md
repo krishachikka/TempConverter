@@ -11,12 +11,14 @@ Dropdown menu or radio button for the user to choose if they are inputting in Ce
 Display area for the final converted temperature and unit
 For an extra challenge: You can add in a third conversion option to convert from and to Kelvin as well.
 <br>
+<br>
 <b>Link:</b> https://krishachikka.github.io/OIBSIP-Task3/
 <br>
 <br>
 A simple web-based temperature converter that allows users to input a temperature in either Fahrenheit or Celsius and view the converted temperature with the correct unit.
 
 <b>Features</b>
+<br>
 Input Field: Users can type in the temperature they want to convert. The input is validated to ensure it is a number.
 
 Temperature Unit Selection: Users can choose whether the input temperature is in Celsius or Fahrenheit from a dropdown menu.
