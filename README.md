@@ -1,5 +1,4 @@
-# OIBSIP-Task3
-<h1>Task 3: Temperature Converter Website</h1>
+#Temperature Converter Website
 <br>
 Task Description: The user will input a temperature in either Fahrenheit or Celsius and press a "convert" button. The converted temperature will then be displayed with the correct unit.
 <br>
@@ -12,7 +11,7 @@ Display area for the final converted temperature and unit
 For an extra challenge: You can add in a third conversion option to convert from and to Kelvin as well.
 <br>
 <br>
-<b>Link:</b> https://krishachikka.github.io/OIBSIP-Task3/
+<b>Link:</b> https://krishachikka.github.io/TempConverter/
 <br>
 <br>
 A simple web-based temperature converter that allows users to input a temperature in either Fahrenheit or Celsius and view the converted temperature with the correct unit.
